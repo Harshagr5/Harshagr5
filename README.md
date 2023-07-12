@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Harshagr5
 - 👀 I’m interested in web development and machine learning
 - 🌱 I’m currently learning web development
-- 💞️ I’m looking to collaborate on 
+
 - 📫 You can reach me on agarwalharshah@gmail.com
 
 <!---
